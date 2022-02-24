@@ -183,11 +183,17 @@ SECCIÓN 18–3 Filtros pasabanda
 
 ![image](https://user-images.githubusercontent.com/94079321/155531940-bce75afb-908b-4fc1-b2c2-e7f1e5ef60ae.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155535302-e5afaeba-1eba-499c-ad8f-f526bbc38251.png)
+
 21. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent  120 V?
 
 ![image](https://user-images.githubusercontent.com/94079321/155531961-d0ce3023-e1e4-42de-8fab-8f3bd8ab22f3.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155535284-beb45803-e373-4e40-a58b-aceef4fc285d.png)
+
 23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB = 500 Hz; Q = 40; e IC(máx) = 20 mA, VC(máx) = 2.5 V.
+
+![image](https://user-images.githubusercontent.com/94079321/155535262-9ebd5aa6-10ee-4cdf-98c7-91c53cac5a69.png)
 
 SECCIÓN 18–4 Filtros Rechazabanda
 
@@ -195,9 +201,13 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 ![image](https://user-images.githubusercontent.com/94079321/155531991-6d2401c7-66cc-4983-a0b7-f184a203844d.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155535244-c1c7551e-6d65-437a-8e69-6e575e7fb9e7.png)
+
 27. Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200 kHz y rechazar una señal con frecuencia de 456 kHz.
 
 ![image](https://user-images.githubusercontent.com/94079321/155532021-cd9d6f20-2f90-41a7-b0ee-766cbe71381b.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155535220-942d9e82-4337-474f-8616-ef6e1a3e5f5d.png)
 
 5. Conclusiones
 
