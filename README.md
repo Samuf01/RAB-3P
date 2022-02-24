@@ -145,10 +145,17 @@ SECCIÓN 18–1 Filtros pasabajas
 
 1. En cierto filtro pasabajas, XC = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V rms?
 
+![image](https://user-images.githubusercontent.com/94079321/155540746-5a12e10a-dd72-4103-b604-c20977a9dde7.png)
 
 3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent  10 V.
 
 ![image](https://user-images.githubusercontent.com/94079321/155531790-eb467e1b-056f-4701-882b-6fb024c0dd05.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155540943-94fe4e15-1c71-4848-8fb9-d4ba35ad99c7.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155540974-36e76a42-befb-47dd-8c8f-4eb5a55cb9c6.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155541014-163f53dd-31e0-4c71-9eab-b386720f5c30.png)
 
 5. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas:
 
@@ -156,11 +163,17 @@ SECCIÓN 18–1 Filtros pasabajas
 
 ![image](https://user-images.githubusercontent.com/94079321/155531842-e9d144da-3fb7-4381-b2e7-a03233872c24.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155541164-8bc0cf12-0c24-4bff-a74a-c4d597a61d1d.png)
+
 7. Trace una curva de Bode para cada una de las partes del problema 5
+
+![image](https://user-images.githubusercontent.com/94079321/155541289-cd72f41e-9c61-4c96-ab46-89448077890c.png)
 
 9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB:
 
                               (a) -1 dB   (b) -3 dB   (c) -6 dB   (d) -20 dB
+
+![image](https://user-images.githubusercontent.com/94079321/155541341-7da3fffb-e7ca-4312-a5ad-ef8b1ec2394d.png)
 
 SECCIÓN 18–2 Filtros pasaaltas
 
