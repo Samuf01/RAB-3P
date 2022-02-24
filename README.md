@@ -72,15 +72,21 @@ SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/155528008-77a8af22-2a14-4149-b6c2-af83387085cd.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155541587-b121b6c6-40e6-4e2d-a76a-6925689baf19.png)
+
 SECCIÓN 17–5 Análisis de circuitos RLC en paralelo
 
 19. Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar
 
 ![image](https://user-images.githubusercontent.com/94079321/155528024-a964d144-e47f-42ac-b830-bcd768fd6ce9.png)
 
-21. Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19. 
+![image](https://user-images.githubusercontent.com/94079321/155541629-cdd5aebe-902e-415c-a6a7-8b918ad0bba1.png)
+
+21. Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19.
 
 ![image](https://user-images.githubusercontent.com/94079321/155528030-3287c018-62ac-4f2f-a75d-231f7b1e01d1.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155541662-a5000d82-90ef-4956-ab55-ebd411db396f.png)
 
 SECCIÓN 17–6 Resonancia en paralelo
 
