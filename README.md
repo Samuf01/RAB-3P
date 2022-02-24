@@ -4,7 +4,13 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 1. Objetivos
 
+- Estudiar mediante nuestro libro guía principios de circuitos eléctricos los circuitos RLC y su comportamiento al ser estudiados y resueltos en un ejercicio.
+
 1.1. Objetivo General
+
+- Estudiar los circuitos RLC y analizarlos junto a la impedancia en este tipo de circuitos.
+
+- Determinar cómo se comporta un circuito al estudiar la impedancia y reactancia.
 
 1.2 Objetivo Especifico
 
@@ -126,7 +132,9 @@ SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
 
 ![image](https://user-images.githubusercontent.com/94079321/155528115-44103e39-200a-4a8e-92f7-07f11d1a2e62.png)
 
-29. Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie.
+![image](https://user-images.githubusercontent.com/94079321/155573141-b2bc7158-5fd3-4714-964a-ff4be8dd7582.png)
+
+29. Convierta el circuito de la figura 17-66 en una forma equivalente dispuesta en serie.
 
 ![image](https://user-images.githubusercontent.com/94079321/155528156-410915cd-2f37-4d99-acc7-e67242a992c5.png)
 
