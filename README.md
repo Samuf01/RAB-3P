@@ -108,6 +108,7 @@ SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
 
 ![image](https://user-images.githubusercontent.com/94079321/155528178-24162d12-e6cb-4393-9057-12e71b8cfda5.png)
 
+
 33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje entre las terminales de cada componente.
 
 ![image](https://user-images.githubusercontent.com/94079321/155528207-69b85375-9091-4a0c-83af-2794cd147056.png)
