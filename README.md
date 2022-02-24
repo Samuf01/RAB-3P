@@ -10,6 +10,20 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 2. Marco Teórico
 
+CIRCUITOS  RLC Y RESONANCIA 
+
+![image](https://user-images.githubusercontent.com/94079321/155467927-f42ae0a5-5873-4dc4-8dd2-48a5f3ce38eb.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155468359-309af609-a148-41c7-9ed3-d2eff1c1553e.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155468423-8e4f3296-4fa9-4c97-881e-4beb521e59f9.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155468457-a327ab4d-e24e-408e-aff3-d331d5f18f27.png)
+
+FILTROS PASIVOS
+
+![image](https://user-images.githubusercontent.com/94079321/155468745-4e1f714d-a0fe-4f54-b3f4-f26e1fd23d36.png)
+
 3. Resolución Unidad 17
 
 PARTE 1: CIRCUITOS EN SERIE
