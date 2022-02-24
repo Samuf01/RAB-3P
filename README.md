@@ -6,6 +6,8 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 1.1. Objetivo General
 
+Estudiar mediante nuestro libro guía principios de circuitos eléctricos los circuitos RLC y su comportamiento al ser estudiados y resueltos en un ejercicio
+
 1.2 Objetivo Especifico
 
 - Estudiar los circuitos RLC y analizarlos junto a la impedancia en este tipo de circuitos.
