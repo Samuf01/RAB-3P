@@ -86,6 +86,46 @@ SECCIÓN 17–8 Ancho de banda de circuitos resonantes
 
 4. Resolución Unidad 18
 
+SECCIÓN 18–1 Filtros pasabajas
+
+1. En cierto filtro pasabajas, XC = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V rms?
+
+3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent  10 V.
+
+5. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas:
+
+                              (a) 60 Hz (b) 500 Hz (c) 1 kHz (d) 5 kHz
+
+
+7. Trace una curva de Bode para cada una de las partes del problema 5
+
+9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB:
+
+                              (a) -1 dB   (b) -3 dB   (c) -6 dB   (d) -20 dB
+
+SECCIÓN 18–2 Filtros pasaaltas
+
+11. En un filtro pasaaltas, XC = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando Vent 10 V rms?
+
+13. Determine el voltaje de salida de cada filtro mostrado en la figura 18-41 a la frecuencia especificada cuando Vent = 10 V.
+
+15. Trace la curva de Bode para cada filtro mostrado en la figura 18-41
+
+SECCIÓN 18–3 Filtros pasabanda
+
+17. Determine la frecuencia central para cada filtro de la figura 18-43.
+
+19. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f0
+
+21. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Æ, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent  120 V?
+ 
+23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB = 500 Hz; Q = 40; e IC(máx) = 20 mA, VC(máx) = 2.5 V.
+
+SECCIÓN 18–4 Filtros Rechazabanda
+
+25. Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo.
+
+27. Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200 kHz y rechazar una señal con frecuencia de 456 kHz.
 
 
 5. Conclusiones
