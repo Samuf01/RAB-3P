@@ -147,11 +147,13 @@ SECCIÓN 18–1 Filtros pasabajas
 
 3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent  10 V.
 
+![image](https://user-images.githubusercontent.com/94079321/155531790-eb467e1b-056f-4701-882b-6fb024c0dd05.png)
 
 5. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas:
 
                               (a) 60 Hz (b) 500 Hz (c) 1 kHz (d) 5 kHz
 
+![image](https://user-images.githubusercontent.com/94079321/155531842-e9d144da-3fb7-4381-b2e7-a03233872c24.png)
 
 7. Trace una curva de Bode para cada una de las partes del problema 5
 
@@ -165,26 +167,37 @@ SECCIÓN 18–2 Filtros pasaaltas
 
 13. Determine el voltaje de salida de cada filtro mostrado en la figura 18-41 a la frecuencia especificada cuando Vent = 10 V.
 
+![image](https://user-images.githubusercontent.com/94079321/155531883-39452e60-4ed4-4f1b-a10a-1f813a900e7f.png)
+
 15. Trace la curva de Bode para cada filtro mostrado en la figura 18-41
 
+![image](https://user-images.githubusercontent.com/94079321/155531895-96a1081e-e77d-43f1-aa95-7c6aedf0354f.png)
 
 SECCIÓN 18–3 Filtros pasabanda
 
 17. Determine la frecuencia central para cada filtro de la figura 18-43.
 
+![image](https://user-images.githubusercontent.com/94079321/155531930-bd4fc288-69fd-424b-8058-42f557a54b02.png)
 
 19. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f0
 
+![image](https://user-images.githubusercontent.com/94079321/155531940-bce75afb-908b-4fc1-b2c2-e7f1e5ef60ae.png)
+
 21. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent  120 V?
- 
+
+![image](https://user-images.githubusercontent.com/94079321/155531961-d0ce3023-e1e4-42de-8fab-8f3bd8ab22f3.png)
+
 23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB = 500 Hz; Q = 40; e IC(máx) = 20 mA, VC(máx) = 2.5 V.
 
 SECCIÓN 18–4 Filtros Rechazabanda
 
 25. Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo.
 
+![image](https://user-images.githubusercontent.com/94079321/155531991-6d2401c7-66cc-4983-a0b7-f184a203844d.png)
+
 27. Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200 kHz y rechazar una señal con frecuencia de 456 kHz.
 
+![image](https://user-images.githubusercontent.com/94079321/155532021-cd9d6f20-2f90-41a7-b0ee-766cbe71381b.png)
 
 5. Conclusiones
 
