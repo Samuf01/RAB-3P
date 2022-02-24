@@ -267,3 +267,5 @@ SECCIÓN 18–4 Filtros Rechazabanda
 Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson.
 
 7. Vídeo
+
+https://youtu.be/uCp4McKKVOE
