@@ -114,14 +114,19 @@ SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
 
 ![image](https://user-images.githubusercontent.com/94079321/155528178-24162d12-e6cb-4393-9057-12e71b8cfda5.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155566843-069670f7-8c7f-4a08-ae54-bb45bc358d16.png)
 
 33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje entre las terminales de cada componente.
 
 ![image](https://user-images.githubusercontent.com/94079321/155528207-69b85375-9091-4a0c-83af-2794cd147056.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155566889-2b9a80d2-66ad-4c52-a896-a6f76633ca33.png)
+
 35. Si el valor de C es de 0.22 μF, ¿cuál es la corriente a través de un resistor de 100 Ω conectado de a a b en la figura 17-69?
 
 ![image](https://user-images.githubusercontent.com/94079321/155528233-c2230bc8-d8f0-4db7-a38d-da7463059080.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155566927-f4a1bb15-bb0d-489a-af02-306fac8a13c8.png)
 
 37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
 
