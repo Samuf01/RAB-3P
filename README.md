@@ -120,15 +120,23 @@ SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
 
 ![image](https://user-images.githubusercontent.com/94079321/155528256-6c395dff-4081-4cfb-92f7-84f84617002b.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155529269-351f81d7-907f-478b-9c3a-9b55a745fcc1.png)
+
 PARTE 4: TEMAS ESPECIALES
 
 SECCIÓN 17–8 Ancho de banda de circuitos resonantes
 
 39. En condición de resonancia, XL = 2 kΩ y RW  25 Ω en un circuito RLC en paralelo. La frecuencia resonante es de 5 kHz. Determine el ancho de banda.
 
+![image](https://user-images.githubusercontent.com/94079321/155529314-e5c07046-dc68-485f-b2a6-15defaa00957.png)
+
 41. En cierto circuito RLC, la potencia en condición de resonancia es de 2.75 W. ¿Cuál es la potencia a la frecuencia crítica baja? 
 
+![image](https://user-images.githubusercontent.com/94079321/155529358-06421ee2-7cc3-4e39-bb62-19af04aa8aa3.png)
+
 43. Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, ¿cuál es el ancho de banda a la misma fr?
+
+![image](https://user-images.githubusercontent.com/94079321/155529384-e4a2f8f1-7cfa-4228-a751-bbc46266a466.png)
 
 4. Resolución Unidad 18
 
