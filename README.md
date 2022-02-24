@@ -32,9 +32,13 @@ SECCIÓN 17–1 Impedancia de circuitos RLC en serie
 
 1. Cierto circuito RLC en serie tiene los siguientes valores: R = 10 Ω, C = 0.047 μF, y L = 5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz.
 
+![image](https://user-images.githubusercontent.com/94079321/155568082-5acb3198-ade5-4fb3-8aa0-a83c714318b9.png)
+
 3. Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
 
 ![image](https://user-images.githubusercontent.com/94079321/155527806-077079f4-1677-4ebe-be22-43b937741059.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155568109-f2d47350-8e08-40ec-a6ae-69ecb8452159.png)
 
 SECCIÓN 17–2 Análisis de circuitos RLC en serie
 
@@ -42,11 +46,15 @@ SECCIÓN 17–2 Análisis de circuitos RLC en serie
 
 ![image](https://user-images.githubusercontent.com/94079321/155527821-77178983-8acb-497f-8f7e-72f869421061.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155568155-3aac58a4-1d3d-4c32-8076-9c5f8da9712c.png)
+
 7. Analice el circuito de la figura 17-60 para determinar lo siguiente (f = 25 kHz):
 
           (a) Itot    (b) Preal   (c) Pr    (d) Pa
           
 ![image](https://user-images.githubusercontent.com/94079321/155527883-9a0d48d5-433a-419f-a2c9-48ab6a38aaae.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155568204-f40efa9c-54d6-4b7b-b975-66e52d215717.png)
 
 SECCIÓN 17–3 Resonancia en serie
 
@@ -54,15 +62,23 @@ SECCIÓN 17–3 Resonancia en serie
 
 ![image](https://user-images.githubusercontent.com/94079321/155527927-11ea1303-4aa3-4998-a11c-0bb20d842556.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155568257-ba52d868-fe32-40b2-8e5b-b8eca3eb632e.png)
+
 11. Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?
+
+![image](https://user-images.githubusercontent.com/94079321/155568281-7911725f-a1b1-422b-8cac-cced6124a79b.png)
 
 13. Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
 
 ![image](https://user-images.githubusercontent.com/94079321/155527963-42126578-2dfe-4215-84a7-e21cfd613837.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155568304-5572057e-02c0-4bea-bda3-03fe20588961.png)
+
 15. Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar con un conmutador:
 
         (a) 500 kHz   (b) 1000 kHz    (c) 1500 kHz    (d) 2000 kHz
+
+![image](https://user-images.githubusercontent.com/94079321/155568336-33a31120-c656-4031-bab8-e1501d71162e.png)
 
 PARTE 2: CIRCUITOS EN PARALELO
 
