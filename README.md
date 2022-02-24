@@ -6,13 +6,7 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 1.1. Objetivo General
 
-Estudiar mediante nuestro libro guía principios de circuitos eléctricos los circuitos RLC y su comportamiento al ser estudiados y resueltos en un ejercicio
-
 1.2 Objetivo Especifico
-
-- Estudiar los circuitos RLC y analizarlos junto a la impedancia en este tipo de circuitos.
-
-- Determinar cómo se comporta un circuito al estudiar la impedancia y reactancia.
 
 2. Marco Teórico
 
@@ -116,9 +110,13 @@ SECCIÓN 17–6 Resonancia en paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/155528060-1f749539-348f-4939-a706-1c168bdf9758.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155570504-c2ba8cec-8a02-40ed-b9ae-550978b74bee.png)
+
 25. Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
 
 ![image](https://user-images.githubusercontent.com/94079321/155528075-deb7ac8a-570c-475d-b26e-f798662ba08d.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155570568-77ed856b-e8b3-416f-ac78-73f711382578.png)
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 
@@ -270,7 +268,7 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 - La impedancia de un circuito o de un componente representa la cantidad de ohm con la cual se opone a la circulación de corriente. Es la suma vectorial de la resistencia más la reactancia.
 
-- Para calcular la impedancia debemos tener en claro temas como la resistencia el voltaje la intensidad la reactancia y a su vez como aplicarlos en sus fórmulas respectivas
+- Para calcular la impedancia debemos tener en claro temas como la resistencia el voltaje la intensidad la reactancia y a su vez como aplicarlos en sus fórmulas respectivas.
 
 6. Bibliografía
 
