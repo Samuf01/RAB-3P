@@ -144,7 +144,9 @@ SECCIÓN 18–1 Filtros pasabajas
 
 1. En cierto filtro pasabajas, XC = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V rms?
 
+
 3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent  10 V.
+
 
 5. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas:
 
@@ -165,13 +167,15 @@ SECCIÓN 18–2 Filtros pasaaltas
 
 15. Trace la curva de Bode para cada filtro mostrado en la figura 18-41
 
+
 SECCIÓN 18–3 Filtros pasabanda
 
 17. Determine la frecuencia central para cada filtro de la figura 18-43.
 
+
 19. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f0
 
-21. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Æ, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent  120 V?
+21. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent  120 V?
  
 23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB = 500 Hz; Q = 40; e IC(máx) = 20 mA, VC(máx) = 2.5 V.
 
