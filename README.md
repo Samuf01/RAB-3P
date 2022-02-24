@@ -138,6 +138,8 @@ SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
 
 ![image](https://user-images.githubusercontent.com/94079321/155528156-410915cd-2f37-4d99-acc7-e67242a992c5.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155573698-75f7009f-5e8e-4394-9855-70aba3d7e9d2.png)
+
 31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
 
 ![image](https://user-images.githubusercontent.com/94079321/155528178-24162d12-e6cb-4393-9057-12e71b8cfda5.png)
