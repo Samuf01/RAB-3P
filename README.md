@@ -8,6 +8,10 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 1.2 Objetivo Especifico
 
+- Estudiar los circuitos RLC y analizarlos junto a la impedancia en este tipo de circuitos.
+
+- Determinar cómo se comporta un circuito al estudiar la impedancia y reactancia.
+
 2. Marco Teórico
 
 CIRCUITOS  RLC Y RESONANCIA 
@@ -261,6 +265,10 @@ SECCIÓN 18–4 Filtros Rechazabanda
 ![image](https://user-images.githubusercontent.com/94079321/155535220-942d9e82-4337-474f-8616-ef6e1a3e5f5d.png)
 
 5. Conclusiones
+
+- La impedancia de un circuito o de un componente representa la cantidad de ohm con la cual se opone a la circulación de corriente. Es la suma vectorial de la resistencia más la reactancia.
+
+- Para calcular la impedancia debemos tener en claro temas como la resistencia el voltaje la intensidad la reactancia y a su vez como aplicarlos en sus fórmulas respectivas
 
 6. Bibliografía
 
