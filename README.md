@@ -206,19 +206,29 @@ SECCIÓN 18–2 Filtros pasaaltas
 
 11. En un filtro pasaaltas, XC = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando Vent 10 V rms?
 
+![image](https://user-images.githubusercontent.com/94079321/155568970-a7929a31-c274-4d8d-987e-8974a492248f.png)
+
 13. Determine el voltaje de salida de cada filtro mostrado en la figura 18-41 a la frecuencia especificada cuando Vent = 10 V.
 
 ![image](https://user-images.githubusercontent.com/94079321/155531883-39452e60-4ed4-4f1b-a10a-1f813a900e7f.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155568992-5700a410-416d-4c41-9867-6e3240245789.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155569047-eae330a0-59ad-4d38-bff0-8e1ecfa981b2.png)
+
 15. Trace la curva de Bode para cada filtro mostrado en la figura 18-41
 
 ![image](https://user-images.githubusercontent.com/94079321/155531895-96a1081e-e77d-43f1-aa95-7c6aedf0354f.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155569077-913989e2-7ad8-4fcb-9c54-87829ab52990.png)
 
 SECCIÓN 18–3 Filtros pasabanda
 
 17. Determine la frecuencia central para cada filtro de la figura 18-43.
 
 ![image](https://user-images.githubusercontent.com/94079321/155531930-bd4fc288-69fd-424b-8058-42f557a54b02.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155569105-8af839c3-e2a7-436a-8e27-a313079fc3bb.png)
 
 19. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f0
 
